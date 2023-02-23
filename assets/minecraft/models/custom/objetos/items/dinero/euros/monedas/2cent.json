@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "item/generated",
-	"textures": {
-		"1": "objectes/moneda1",
-		"layer0": "objectes/0_02"
-	}
-}

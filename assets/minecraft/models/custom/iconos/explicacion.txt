@@ -1,1 +1,0 @@
-Estos iconos se supone que es para usarlo con el plugin de Command Panels (ya que deja poner CMD en los items)
