@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/rail"
+  },
+
+  "overrides": [
+    { "predicate": { "custom_model_data": 1  }, "model": "custom/objetos/bloques/vias/cruce" },
+    { "predicate": { "custom_model_data": 2  }, "model": "custom/objetos/bloques/vias/derecha_izquierda" },
+    { "predicate": { "custom_model_data": 3  }, "model": "custom/objetos/bloques/vias/derecha_recto_izquierda" },
+    { "predicate": { "custom_model_data": 4  }, "model": "custom/objetos/bloques/vias/izquierda_recto" },
+    { "predicate": { "custom_model_data": 5  }, "model": "custom/objetos/bloques/vias/recto_derecha" },
+    { "predicate": { "custom_model_data": 6  }, "model": "custom/objetos/bloques/vias/paso_a_nivel/abierto" },
+    { "predicate": { "custom_model_data": 7  }, "model": "custom/objetos/bloques/vias/paso_a_nivel/cerrado" },
+    { "predicate": { "custom_model_data": 8  }, "model": "custom/objetos/bloques/vias/toperas/version1" },
+    { "predicate": { "custom_model_data": 9  }, "model": "custom/objetos/bloques/vias/toperas/version2" },
+    { "predicate": { "custom_model_data": 10 }, "model": "custom/objetos/bloques/vias/toperas/version3" }
+  ]
+}

@@ -1,0 +1,3420 @@
+{
+  "train.default.horn":{
+    "sounds":[
+      "horn0"
+    ]
+  },
+
+  "train.renfe1.horn":{
+    "sounds":[
+      "horn1"
+    ]
+  },
+
+  "train.r446.horn":{
+    "sounds":[
+      "horn2"
+    ]
+  },
+
+  "train.r447.horn":{
+    "sounds":[
+      "horn2"
+    ]
+  },
+
+  "train.r448.horn":{
+    "sounds":[
+      "horn2"
+    ]
+  },
+
+  "train.renfe2.horn":{
+    "sounds":[
+      "horn2"
+    ]
+  },
+
+  "train.renfe3.horn":{
+    "sounds":[
+      "horn6"
+    ]
+  },
+
+  "train.fgctdl.horn":{
+    "sounds":[
+      "horn7"
+    ]
+  },
+
+  "train.renfe4.horn":{
+    "sounds":[
+      "horn7"
+    ]
+  },
+
+  "train.r463.horn":{
+    "sounds":[
+      "horn15"
+    ]
+  },
+
+  "train.renfe5.horn":{
+    "sounds":[
+      "horn15"
+    ]
+  },
+
+  "train.r470.horn":{
+    "sounds":[
+      "horn16"
+    ]
+  },
+
+  "train.renfe6.horn":{
+    "sounds":[
+      "horn16"
+    ]
+  },
+
+  "train.renfe7.horn":{
+    "sounds":[
+      "horn17"
+    ]
+  },
+
+  "train.renfejapo.horn":{
+    "sounds":[
+      "horn18"
+    ]
+  },
+
+  "train.renfe8.horn":{
+    "sounds":[
+      "horn18"
+    ]
+  },
+
+  "train.r592.horn":{
+    "sounds":[
+      "horn19"
+    ]
+  },
+
+  "train.r596.horn":{
+    "sounds":[
+      "horn19"
+    ]
+  },
+
+  "train.renfe9.horn":{
+    "sounds":[
+      "horn19"
+    ]
+  },
+
+  "train.r301.horn":{
+    "sounds":[
+      "horn20"
+    ]
+  },
+
+  "train.adif301.horn":{
+    "sounds":[
+      "horn20"
+    ]
+  },
+
+  "train.renfe10.horn":{
+    "sounds":[
+      "horn20"
+    ]
+  },
+
+  "train.r449.horn":{
+    "sounds":[
+      "horn21"
+    ]
+  },
+
+  "train.renfe11.horn":{
+    "sounds":[
+      "horn21"
+    ]
+  },
+
+  "train.r446.chime":{
+    "sounds":[
+      "chime1"
+    ]
+  },
+
+  "train.r447.chime":{
+    "sounds":[
+      "chime1"
+    ]
+  },
+
+  "train.r448.chime":{
+    "sounds":[
+      "chime1"
+    ]
+  },
+
+  "train.renfe1.chime":{
+    "sounds":[
+      "chime1"
+    ]
+  },
+
+  "train.fgc1.horn":{
+    "sounds":[
+      "horn3"
+    ]
+  },
+
+  "train.fgc2.horn":{
+    "sounds":[
+      "horn4"
+    ]
+  },
+
+  "train.tib.horn":{
+    "sounds":[
+      "horn5"
+    ]
+  },
+
+  "train.fgc3.horn":{
+    "sounds":[
+      "horn8"
+    ]
+  },
+
+  "fgv.horn1":{
+    "sounds":[
+      "horn9"
+    ]
+  },
+
+  "fgv.horn2":{
+    "sounds":[
+      "horn10"
+    ]
+  },
+
+  "tmb.s300.horn":{
+    "sounds":[
+      "horn11"
+    ]
+  },
+
+  "tmb.s500.horn":{
+    "sounds":[
+      "horn12"
+    ]
+  },
+
+  "tmb.s1000.horn":{
+    "sounds":[
+      "horn14"
+    ]
+  },
+
+  "tmb.s1100.horn":{
+    "sounds":[
+      "horn14"
+    ]
+  },
+
+  "tmb.s2000.horn":{
+    "sounds":[
+      "horn12"
+    ]
+  },
+
+  "tmb.s2100.horn":{
+    "sounds":[
+      "horn12"
+    ]
+  },
+
+  "tmb.s3000.horn":{
+    "sounds":[
+      "horn12"
+    ]
+  },
+
+  "tmb.s5000.horn":{
+    "sounds":[
+      "horn13"
+    ]
+  },
+
+  "tmb.s6000.horn":{
+    "sounds":[
+      "horn13"
+    ]
+  },
+
+  "tmb.s9000.horn":{
+    "sounds":[
+      "horn13"
+    ]
+  },
+
+  "avio.despegant":{
+    "sounds":[
+      "aviodespega"
+    ]
+  },
+
+  "mc.car.claxon1":{
+    "sounds":[
+      "claxoncotxe1"
+    ],
+    "subtitle":"Claxon"
+  },
+
+  "mc.car.claxon2":{
+    "sounds":[
+      "claxoncotxe2"
+    ],
+    "subtitle":"Claxon"
+  },
+
+  "mc.car.siren1":{
+    "sounds":[
+      "sirenapolicia"
+    ],
+    "subtitle":"Sirena de Policía"
+  },
+
+  "meg.carterista.tmb":{
+    "sounds":[
+      "metrobcn/meg.carterista"
+    ],
+    "subtitle":"Megafonia de alerta carterista TMB"
+  },
+
+  "meg.distancia.tmb":{
+    "sounds":[
+      "metrobcn/meg.distancia"
+    ],
+    "subtitle":"Megafonia de mantener al distáncia TMB"
+  },
+
+  "pit.sal1":{
+    "sounds":[
+      "metrobcn/pitsal1"
+    ],
+    "subtitle":"Pitido de salida."
+  },
+
+  "pit.sal2":{
+    "sounds":[
+      "metrobcn/pitsal2"
+    ],
+    "subtitle":"Pitido de salida."
+  },
+
+  "pit.sal3":{
+    "sounds":[
+      "metrobcn/pitsal3"
+    ],
+    "subtitle":"Pitido de salida."
+  },
+
+  "pit.sal.fgc1":{
+    "sounds":[
+      "fgc/tren/pitsal1"
+    ],
+    "subtitle":"Pitido de salida."
+  },
+
+  "pit.sal.fgc2":{
+    "sounds":[
+      "fgc/tren/pitsal2"
+    ],
+    "subtitle":"Pitido de salida."
+  },
+
+  "pit.sal.fgc3":{
+    "sounds":[
+      "fgc/tren/pitsal3"
+    ],
+    "subtitle":"Pitido de salida."
+  },
+
+  "pit.sal.fgc4":{
+    "sounds":[
+      "fgc/tren/pitsal4"
+    ],
+    "subtitle":"Pitido de salida."
+  },
+
+  "pit500":{
+    "sounds":[
+      "metrobcn/s500"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit1000":{
+    "sounds":[
+      "metrobcn/s1000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit1100":{
+    "sounds":[
+      "metrobcn/s1100"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit2000":{
+    "sounds":[
+      "metrobcn/s2000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pitmm2000":{
+    "sounds":[
+      "metromadrid/puertas_s2000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit2100":{
+    "sounds":[
+      "metrobcn/s2000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit3000":{
+    "sounds":[
+      "metrobcn/s3000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit4000":{
+    "sounds":[
+      "metrobcn/s3000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit5000":{
+    "sounds":[
+      "metrobcn/s5000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit6000":{
+    "sounds":[
+      "metrobcn/s5000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit7000":{
+    "sounds":[
+      "metrobcn/s7000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit8000":{
+    "sounds":[
+      "metrobcn/s7000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit9000":{
+    "sounds":[
+      "metrobcn/s5000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit9200":{
+    "sounds":[
+      "metrobcn/s5000"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pt.tram.chime":{
+    "sounds":[
+      "ptc1"
+    ],
+    "subtitle":"Camapana de tranvía."
+  },
+
+  "pt.tram.horn":{
+    "sounds":[
+      "ptc2"
+    ],
+    "subtitle":"Campanillas de tranvía."
+  },
+
+  "tmb.bus.portes":{
+    "sounds":[
+      "bustmbtancantportes"
+    ],
+    "subtitle":"Aviso de cierre de puertas."
+  },
+
+  "train.crossing.1":{
+    "sounds":[
+      "pasanivell"
+    ],
+    "subtitle":"Señal de paso a nivel."
+  },
+
+  "meg.final1.tmb":{
+    "sounds":[
+      "metrobcn/final1"
+    ],
+    "subtitle":"Megafonia TMB: Final de Trajecte"
+  },
+
+  "meg.final2.tmb":{
+    "sounds":[
+      "metrobcn/final2"
+    ],
+    "subtitle":"Megafonia TMB: Final de Trajecte"
+  },
+
+  "meg.lapau.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/lapau"
+    ],
+    "subtitle":"Megafonia TMB: La Pau"
+  },
+
+  "meg.elmaresme.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/elmaresmeforum"
+    ],
+    "subtitle":"Megafonia TMB: El Maresme | Forum"
+  },
+
+  "meg.poblenou.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/poblenou"
+    ],
+    "subtitle":"Megafonia TMB: Poblenou"
+  },
+
+  "meg.ciutadella.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/ciutadellavilaolimpica"
+    ],
+    "subtitle":"Megafonia TMB: Ciutadella | Vila Olímpica"
+  },
+
+  "meg.barceloneta.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/barceloneta"
+    ],
+    "subtitle":"Megafonia TMB: Barceloneta"
+  },
+
+  "meg.jaume1.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/jaume1"
+    ],
+    "subtitle":"Megafonia TMB: Jaume I"
+  },
+
+  "meg.pggracia.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/passeigdegracia"
+    ],
+    "subtitle":"Megafonia TMB: Passeig de Gràcia"
+  },
+
+  "meg.verdaguer.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/verdaguer"
+    ],
+    "subtitle":"Megafonia TMB: Verdaguer"
+  },
+
+  "meg.trinitat.l4":{
+    "sounds":[
+      "metrobcn/megafonies/l4/trinitatnova"
+    ],
+    "subtitle":"Megafonia TMB: Trinitat Nova"
+  },
+
+  "meg.cornella.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/cornella"
+    ],
+    "subtitle":"Megafonia TMB: Cornellà Centre"
+  },
+
+  "meg.stilld.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/santilldefons"
+    ],
+    "subtitle":"Megafonia TMB: Sant Illdefons"
+  },
+
+  "meg.collblanc.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/collblanc"
+    ],
+    "subtitle":"Megafonia TMB: Collblanc"
+  },
+
+  "meg.plsants.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/placadesants"
+    ],
+    "subtitle":"Megafonia TMB: Plaça de Sants"
+  },
+
+  "meg.sants.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/sants"
+    ],
+    "subtitle":"Megafonia TMB: Sants - Estació"
+  },
+
+  "meg.entenca.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/entenca"
+    ],
+    "subtitle":"Megafonia TMB: Entença"
+  },
+
+  "meg.clinic.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/hospitalclinic"
+    ],
+    "subtitle":"Megafonia TMB: Hospital Clínic"
+  },
+
+  "meg.diagonal.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/diagonal"
+    ],
+    "subtitle":"Megafonia TMB: Diagonal"
+  },
+
+  "meg.verdaguer.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/verdaguer"
+    ],
+    "subtitle":"Megafonia TMB: Verdaguer"
+  },
+
+  "meg.sagrada.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/sagradafamilia"
+    ],
+    "subtitle":"Megafonia TMB: Sagrada Família"
+  },
+
+  "meg.sagrera.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/lasagrera"
+    ],
+    "subtitle":"Megafonia TMB: La Sagrera"
+  },
+
+  "meg.vh.l5":{
+    "sounds":[
+      "metrobcn/megafonies/l5/valldhebron"
+    ],
+    "subtitle":"Megafonia TMB: Vall D´Hebrón"
+  },
+
+  "meg.sarria1.fgc":{
+    "sounds":[
+      "fgc/sarria1"
+    ],
+    "subtitle":"Megafonia FGC: Sarrià"
+  },
+
+  "meg.sarria2.fgc":{
+    "sounds":[
+      "fgc/sarria2"
+    ],
+    "subtitle":"Megafonia FGC: Sarrià"
+  },
+
+  "meg.sarria3.fgc":{
+    "sounds":[
+      "fgc/sarria3"
+    ],
+    "subtitle":"Megafonia FGC: Sarrià"
+  },
+
+  "meg.relisenda.fgc":{
+    "sounds":[
+      "fgc/reinaelisenda"
+    ],
+    "subtitle":"Megafonia FGC: Reina Elisenda"
+  },
+
+  "meg.provenca1.fgc":{
+    "sounds":[
+      "fgc/provenca1"
+    ],
+    "subtitle":"Megafonia FGC: Provença"
+  },
+
+  "meg.provenca2.fgc":{
+    "sounds":[
+      "fgc/provenca2"
+    ],
+    "subtitle":"Megafonia FGC: Provença"
+  },
+
+  "meg.europa.fgc":{
+    "sounds":[
+      "fgc/europafira"
+    ],
+    "subtitle":"Megafonia FGC: Europa | Fira"
+  },
+
+  "meg.stcugat1.fgc":{
+    "sounds":[
+      "fgc/santcugat1"
+    ],
+    "subtitle":"Megafonia FGC: Sant Cugat"
+  },
+
+  "meg.stcugat2.fgc":{
+    "sounds":[
+      "fgc/santcugat2"
+    ],
+    "subtitle":"Megafonia FGC: Sant Cugat"
+  },
+
+  "meg.stcugat3.fgc":{
+    "sounds":[
+      "fgc/santcugat3"
+    ],
+    "subtitle":"Megafonia FGC: Sant Cugat"
+  },
+
+  "meg.volpeller.fgc":{
+    "sounds":[
+      "fgc/volpelleres"
+    ],
+    "subtitle":"Megafonia FGC: Volpelleres"
+  },
+
+  "meg.sabnord.fgc":{
+    "sounds":[
+      "fgc/sabadellnord"
+    ],
+    "subtitle":"Megafonia FGC: Sabadell Nord"
+  },
+
+  "meg.sabplmaj.fgc":{
+    "sounds":[
+      "fgc/sabadellplacamajor"
+    ],
+    "subtitle":"Megafonia FGC: Sabadell Plaça Major"
+  },
+
+  "meg.canfeu.fgc":{
+    "sounds":[
+      "fgc/canfeugracia"
+    ],
+    "subtitle":"Megafonia FGC: Can Feu | Gràcia"
+  },
+
+  "meg.uab1.fgc":{
+    "sounds":[
+      "fgc/uab1"
+    ],
+    "subtitle":"Megafonia FGC: Universitat Autònoma"
+  },
+
+  "meg.uab2.fgc":{
+    "sounds":[
+      "fgc/uab2"
+    ],
+    "subtitle":"Megafonia FGC: Universitat Autònoma"
+  },
+
+  "meg.plesp.fgc":{
+    "sounds":[
+      "fgc/plesp1"
+    ],
+    "subtitle":"Megafonia FGC: Pl. Espanya"
+  },
+
+  "meg.plesp2.fgc":{
+    "sounds":[
+      "fgc/plesp2"
+    ],
+    "subtitle":"Megafonia FGC: Pl. Espanya"
+  },
+
+  "meg.stesteves1.fgc":{
+    "sounds":[
+      "fgc/santestevesesrovires1"
+    ],
+    "subtitle":"Megafonia FGC: Sant Esteve Sensrovires"
+  },
+
+  "meg.stesteves2.fgc":{
+    "sounds":[
+      "fgc/santestevesesrovires2"
+    ],
+    "subtitle":"Megafonia FGC: Sant Esteve Sensrovires"
+  },
+
+  "meg.vilanova.fgc":{
+    "sounds":[
+      "fgc/vilanovadelcami1"
+    ],
+    "subtitle":"Megafonia FGC: Vilanova del Camí"
+  },
+
+  "meg.vilanova2.fgc":{
+    "sounds":[
+      "fgc/vilanovadelcami2"
+    ],
+    "subtitle":"Megafonia FGC: Vilanova del Camí"
+  },
+
+  "meg.magoria.fgc":{
+    "sounds":[
+      "fgc/magoria"
+    ],
+    "subtitle":"Megafonia FGC: Magòria - La Campana"
+  },
+
+  "meg.gornal.fgc":{
+    "sounds":[
+      "fgc/gornal"
+    ],
+    "subtitle":"Megafonia FGC: Gornal"
+  },
+
+  "meg.cornellar.fgc":{
+    "sounds":[
+      "fgc/cornellariera"
+    ],
+    "subtitle":"Megafonia FGC: Cornellà - Riera"
+  },
+
+  "meg.stboi1.fgc":{
+    "sounds":[
+      "fgc/stboi1"
+    ],
+    "subtitle":"Megafonia FGC: St. Boi"
+  },
+
+  "meg.molinou1.fgc":{
+    "sounds":[
+      "fgc/molinou1"
+    ],
+    "subtitle":"Megafonia FGC: Molí Nou - Ciutat Cooperativa"
+  },
+
+  "meg.molinou2.fgc":{
+    "sounds":[
+      "fgc/molinou2"
+    ],
+    "subtitle":"Megafonia FGC: Molí Nou - Ciutat Cooperativa"
+  },
+
+  "meg.martorell.fgc":{
+    "sounds":[
+      "fgc/martorell"
+    ],
+    "subtitle":"Megafonia FGC: Martorell"
+  },
+
+  "meg.martorell2.fgc":{
+    "sounds":[
+      "fgc/martorell2"
+    ],
+    "subtitle":"Megafonia FGC: Martorell"
+  },
+
+  "meg.igualada.fgc":{
+    "sounds":[
+      "fgc/igualada"
+    ],
+    "subtitle":"Megafonia FGC: Igualada"
+  },
+
+  "meg.mtserat.fgc":{
+    "sounds":[
+      "fgc/monistrolmontserrat2"
+    ],
+    "subtitle":"Megafonia FGC: Monistrol de Montserrat"
+  },
+
+  "meg.mtserrat.fgc":{
+    "sounds":[
+      "fgc/monistrolmontserrat1"
+    ],
+    "subtitle":"Megafonia FGC: Monistrol de Montserrat"
+  },
+
+  "meg.castelbell.fgc":{
+    "sounds":[
+      "fgc/castellbellielvilar"
+    ],
+    "subtitle":"Megafonia FGC: Castellbell i el Vilar"
+  },
+
+  "meg.manvilad.fgc":{
+    "sounds":[
+      "fgc/manresaviladordis"
+    ],
+    "subtitle":"Megafonia FGC: Manresa - Viladordis"
+  },
+
+  "meg.manresa.fgc":{
+    "sounds":[
+      "fgc/manresabaixador"
+    ],
+    "subtitle":"Megafonia FGC: Manresa - Baixador"
+  },
+
+  "meg.tibidabo.fgc":{
+    "sounds":[
+      "fgc/avtibidabo"
+    ],
+    "subtitle":"Megafonia FGC: Av. Tibidabo"
+  },
+
+  "meg.valldoreix.fgc":{
+    "sounds":[
+      "fgc/valldoreix"
+    ],
+    "subtitle":"Megafonia FGC: Valldoreix"
+  },
+
+  "meg.peufun1.fgc":{
+    "sounds":[
+      "fgc/peufunicular_primeresportes"
+    ],
+    "subtitle":"Megafonia FGC: Peu del Funicular"
+  },
+
+  "meg.peufun2.fgc":{
+    "sounds":[
+      "fgc/peufunicular_ultimesportes"
+    ],
+    "subtitle":"Megafonia FGC: Peu del Funicular"
+  },
+
+  "cn1.perpignan":{
+    "sounds":[
+      "sncf/cn1.perpignan"
+    ]
+  },
+
+  "cn1.portbou":{
+    "sounds":[
+      "sncf/cn1.portbou"
+    ]
+  },
+
+  "cn2.perpignan":{
+    "sounds":[
+      "sncf/cn2.perpignan"
+    ]
+  },
+
+  "cn2.vilefranche":{
+    "sounds":[
+      "sncf/cn2.vilefranche"
+    ]
+  },
+
+  "cn3.latour":{
+    "sounds":[
+      "sncf/cn3.latour"
+    ]
+  },
+
+  "cn3.vilefranche":{
+    "sounds":[
+      "sncf/cn3.vilefranche"
+    ]
+  },
+
+  "cn4.latour":{
+    "sounds":[
+      "sncf/cn4.latour"
+    ]
+  },
+
+  "cn4.andorre":{
+    "sounds":[
+      "sncf/cn4.andorrehospitalet"
+    ]
+  },
+
+  "ter.noservice":{
+    "sounds":[
+      "sncf/ter.noservice"
+    ]
+  },
+
+  "meg.plcat1.fgc":{
+    "sounds":[
+      "fgc/plcat1"
+    ],
+    "subtitle":"Megafonia FGC: Pl. Catalunya"
+  },
+
+  "meg.plcat2.fgc":{
+    "sounds":[
+      "fgc/plcat2"
+    ],
+    "subtitle":"Megafonia FGC: Pl. Catalunya"
+  },
+
+  "meg.rubi1.fgc":{
+    "sounds":[
+      "fgc/rubi1"
+    ],
+    "subtitle":"Megafonia FGC: Rubí"
+  },
+
+  "meg.rubi2.fgc":{
+    "sounds":[
+      "fgc/rubi2"
+    ],
+    "subtitle":"Megafonia FGC: Rubí"
+  },
+
+  "meg.lesfonts.fgc":{
+    "sounds":[
+      "fgc/lesfonts"
+    ],
+    "subtitle":"Megafonia FGC: Les Fonts"
+  },
+
+  "meg.trsr.fgc":{
+    "sounds":[
+      "fgc/terrassarambla"
+    ],
+    "subtitle":"Megafonia FGC: Terrassa Rambla"
+  },
+
+  "meg.trsn.fgc":{
+    "sounds":[
+      "fgc/terrassaestaciodelnord"
+    ],
+    "subtitle":"Megafonia FGC: Terrassa Nord"
+  },
+
+  "meg.valluniv.fgc":{
+    "sounds":[
+      "fgc/vallparadisuniversitat"
+    ],
+    "subtitle":"Megafonia FGC: Vallparadís Universitat"
+  },
+
+  "meg.trsnu.fgc":{
+    "sounds":[
+      "fgc/terrassanacionsunides"
+    ],
+    "subtitle":"Megafonia FGC: Terrassa Nacions Unides"
+  },
+
+  "meg.olesa1.fgc":{
+    "sounds":[
+      "fgc/olesa1"
+    ],
+    "subtitle":"Megafonia FGC: Olesa de Montserrat"
+  },
+
+  "meg.olesa2.fgc":{
+    "sounds":[
+      "fgc/olesa2"
+    ],
+    "subtitle":"Megafonia FGC: Olesa de Montserrat"
+  },
+
+  "bus.parada.solicitada1":{
+    "sounds":[
+      "paradasolicitada1"
+    ],
+    "subtitle":"/!\\ ¡Alguien ha pedido parada!"
+  },
+
+  "entity.generic.explode":{
+    "sounds":[
+      "random/explode1",
+      "random/explode2",
+      "random/explode3",
+      "random/explode4"
+    ]
+  },
+
+  "entity.tnt.primed":{
+    "sounds":[
+      "random/fuse"
+    ]
+  },
+
+  "l7i":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/l7i"
+    ]
+  },
+
+  "l7v":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/l7v"
+    ]
+  },
+
+  "l8i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/l8i"
+    ]
+  },
+
+  "l8v":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/l8v"
+    ]
+  },
+
+  "s1i":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s1i"
+    ]
+  },
+
+  "s1v":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s1v"
+    ]
+  },
+
+  "s2i":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s2i"
+    ]
+  },
+
+  "s2v":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s2v"
+    ]
+  },
+
+  "s3i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/s3i"
+    ]
+  },
+
+  "s3v":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/s3v"
+    ]
+  },
+
+  "s4i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/s4i"
+    ]
+  },
+
+  "s4v":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/s4v"
+    ]
+  },
+
+  "s5i":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s5i"
+    ]
+  },
+
+  "s5v":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s5v"
+    ]
+  },
+
+  "s6i":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s6i"
+    ]
+  },
+
+  "s6v":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s6v"
+    ]
+  },
+
+  "s7i":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s7i"
+    ]
+  },
+
+  "s7v":{
+    "sounds":[
+      "announces/fgc/barcelonavalles/s7v"
+    ]
+  },
+
+  "s8i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/s8i"
+    ]
+  },
+
+  "s8v":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/s8v"
+    ]
+  },
+
+  "r5i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r5i"
+    ]
+  },
+
+  "r5v1":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r5v1"
+    ]
+  },
+
+  "r5v2":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r5v2"
+    ]
+  },
+
+  "r6i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r6i"
+    ]
+  },
+
+  "r6v1":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r6v1"
+    ]
+  },
+
+  "r6v2":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r6v2"
+    ]
+  },
+
+  "r50i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r50i"
+    ]
+  },
+
+  "r50v":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r50v"
+    ]
+  },
+
+  "r60i":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r60i"
+    ]
+  },
+
+  "r60v":{
+    "sounds":[
+      "announces/fgc/llobregatanoia/r60v"
+    ]
+  },
+
+  "himne.andorra":{
+    "sounds":[
+      "cancons/himnes/andorra"
+    ],
+    "subtitle":"Himno de Andorra"
+  },
+
+  "himne.arago":{
+    "sounds":[
+      "cancons/himnes/arago"
+    ],
+    "subtitle":"Himno de Aragón"
+  },
+
+  "himne.catalunya":{
+    "sounds":[
+      "cancons/himnes/catalunya"
+    ],
+    "subtitle":"Himno de Cataluña"
+  },
+
+  "himne.espanya":{
+    "sounds":[
+      "cancons/himnes/espanya"
+    ],
+    "subtitle":"Himno de España"
+  },
+
+  "himne.franca":{
+    "sounds":[
+      "cancons/himnes/franca"
+    ],
+    "subtitle":"Himno de Francia"
+  },
+
+  "himne.illesbalears":{
+    "sounds":[
+      "cancons/himnes/illesbalears"
+    ],
+    "subtitle":"Himno de las Islas Baleares"
+  },
+
+  "himne.valencia":{
+    "sounds":[
+      "cancons/himnes/valencia"
+    ],
+    "subtitle":"Himno de Valencia"
+  },
+
+  "pit111":{
+    "sounds":[
+      "fgc/tren/pit112"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit112":{
+    "sounds":[
+      "fgc/tren/pit112"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit113":{
+    "sounds":[
+      "fgc/tren/pit112"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit114":{
+    "sounds":[
+      "fgc/tren/pit112"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit211":{
+    "sounds":[
+      "fgc/tren/pit112"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit213":{
+    "sounds":[
+      "fgc/tren/pit112"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit446":{
+    "sounds":[
+      "renfe/pit447"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit447":{
+    "sounds":[
+      "renfe/pit447"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit450":{
+    "sounds":[
+      "renfe/pit450"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit451":{
+    "sounds":[
+      "renfe/pit450"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit462":{
+    "sounds":[
+      "renfe/pit465"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit463":{
+    "sounds":[
+      "renfe/pit465"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit464":{
+    "sounds":[
+      "renfe/pit465"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit465":{
+    "sounds":[
+      "renfe/pit465"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit448":{
+    "sounds":[
+      "renfe/pit470"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit470":{
+    "sounds":[
+      "renfe/pit470"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit592":{
+    "sounds":[
+      "renfe/pit470"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "pit596":{
+    "sounds":[
+      "renfe/pit470"
+    ],
+    "subtitle":"Señal acústica."
+  },
+
+  "meg.r1.mms":{
+    "sounds":[
+      "renfe/rodalies/meg.r1.mms"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r1.mto":{
+    "sounds":[
+      "renfe/rodalies/meg.r1.mto"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r1.lh":{
+    "sounds":[
+      "renfe/rodalies/meg.r1.lh"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r1.bln":{
+    "sounds":[
+      "renfe/rodalies/meg.r1.bln"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r1.mdr":{
+    "sounds":[
+      "renfe/rodalies/meg.r1.mdr"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.rg1.lh":{
+    "sounds":[
+      "renfe/rodalies/meg.rg1.lh"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.rg1.fgr":{
+    "sounds":[
+      "renfe/rodalies/meg.rg1.fgr"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.rg1.mto":{
+    "sounds":[
+      "renfe/rodalies/meg.rg1.mto"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.bcna":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.bcna"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.bcnef.a":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.bcnef.a"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.bvg":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.bvg"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.gnl":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.gnl"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.mms":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.mms"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.svc":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.svc"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.vlg":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.vlg"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r2.stc":{
+    "sounds":[
+      "renfe/rodalies/meg.r2.stc"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r3.tqe":{
+    "sounds":[
+      "renfe/rodalies/meg.r3.tqe"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r3.vic":{
+    "sounds":[
+      "renfe/rodalies/meg.r3.vic"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r3.lh.ad":{
+    "sounds":[
+      "renfe/rodalies/meg.r3.lh.ad"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r3.lh.bc":{
+    "sounds":[
+      "renfe/rodalies/meg.r3.lh.bc"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r3.rip":{
+    "sounds":[
+      "renfe/rodalies/meg.r3.rip"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r3.rdf":{
+    "sounds":[
+      "renfe/rodalies/meg.r3.rdf"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r4.lh":{
+    "sounds":[
+      "renfe/rodalies/meg.r4.lh"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r4.mrs":{
+    "sounds":[
+      "renfe/rodalies/meg.r4.mrs"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r4.mrs.c":{
+    "sounds":[
+      "renfe/rodalies/meg.r4.mrs.c"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r4.mtr":{
+    "sounds":[
+      "renfe/rodalies/meg.r4.mtr"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r4.svc":{
+    "sounds":[
+      "renfe/rodalies/meg.r4.svc"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r4.trs":{
+    "sounds":[
+      "renfe/rodalies/meg.r4.trs"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r4.vfp":{
+    "sounds":[
+      "renfe/rodalies/meg.r4.vfp"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r7.bcnca":{
+    "sounds":[
+      "renfe/rodalies/meg.r7.bcnca"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r7.lh":{
+    "sounds":[
+      "renfe/rodalies/meg.r7.lh"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r7.cdu":{
+    "sounds":[
+      "renfe/rodalies/meg.r7.cdu"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r8.gnl":{
+    "sounds":[
+      "renfe/rodalies/meg.r8.gnl"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r8.mtr":{
+    "sounds":[
+      "renfe/rodalies/meg.r8.mtr"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r12.lh":{
+    "sounds":[
+      "renfe/rodalies/meg.r12.lh"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r12.lld":{
+    "sounds":[
+      "renfe/rodalies/meg.r12.lld"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r13a.lld":{
+    "sounds":[
+      "renfe/rodalies/meg.r13a.lld"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r13b.lld":{
+    "sounds":[
+      "renfe/rodalies/meg.r13b.lld"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r13a.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.r13a.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r13b.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.r13b.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r14.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.r14.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r14.lpp":{
+    "sounds":[
+      "renfe/rodalies/meg.r14.lpp"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r16a.tts":{
+    "sounds":[
+      "renfe/rodalies/meg.r16a.tts"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r16b.tts":{
+    "sounds":[
+      "renfe/rodalies/meg.r16b.tts"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r16c.tts":{
+    "sounds":[
+      "renfe/rodalies/meg.r16c.tts"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r16a.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.r16a.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r16b.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.reg.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r16c.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.r16c.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r10.bcna":{
+    "sounds":[
+      "renfe/rodalies/meg.rod.bcna"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r10.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.rod.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.rt2.pa":{
+    "sounds":[
+      "renfe/rodalies/meg.rt2.pa"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.rt2.abc":{
+    "sounds":[
+      "renfe/rodalies/meg.rt2.abc"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r17.pa":{
+    "sounds":[
+      "renfe/rodalies/meg.r17.pa"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.r17.bcnef":{
+    "sounds":[
+      "renfe/rodalies/meg.reg.bcnef"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.vies.rod":{
+    "sounds":[
+      "renfe/rodalies/meg.vies.rod"
+    ],
+    "subtitle":"Megafonia renfe"
+  },
+
+  "meg.senseparada1":{
+    "sounds":[
+      "renfe/rodalies/meg.senseparada1"
+    ],
+    "subtitle":"Megafonia tren sense parada Rodalies"
+  },
+
+  "meg.senseparada2":{
+    "sounds":[
+      "renfe/rodalies/meg.senseparada2"
+    ],
+    "subtitle":"Megafonia tren sense parada Rodalies"
+  },
+
+  "meg.senseparada3":{
+    "sounds":[
+      "adif_sinparada1"
+    ],
+    "subtitle":"Megafonia tren sin parada ADIF"
+  },
+
+  "meg.tancat.adif":{
+    "sounds":[
+      "adif_estacioncerrada"
+    ],
+    "subtitle":"Megafonia estación cerrada ADIF"
+  },
+
+  "null":{
+    "sounds":[
+      "plugin/null"
+    ]
+  },
+
+  "meg_rodalies.null":{
+    "sounds":[
+      "plugin/null"
+    ]
+  },
+
+  "meg_fgc.null":{
+    "sounds":[
+      "plugin/null"
+    ]
+  },
+
+  "meg_adif.null":{
+    "sounds":[
+      "plugin/null"
+    ]
+  },
+
+  "meg_rodalies.cat.es_a_la_via":{
+    "sounds":[
+      "plugin/rodalies/es_a_la_via"
+    ]
+  },
+
+  "meg_rodalies.cat.amb_destinacio":{
+    "sounds":[
+      "plugin/rodalies/amb_destinacio"
+    ]
+  },
+
+  "meg_rodalies.cat.proxima_circulacio_per_via":{
+    "sounds":[
+      "plugin/rodalies/proxima_circulacio_per_via"
+    ]
+  },
+
+  "meg_rodalies.cat.tren_sense_parada":{
+    "sounds":[
+      "plugin/rodalies/tren_sense_parada"
+    ]
+  },
+
+  "meg_rodalies.tren_sense_parada_original":{
+    "sounds":[
+      "plugin/rodalies/tren_sense_parada_original"
+    ]
+  },
+
+  "meg_rodalies.cat.via":{
+    "sounds":[
+      "plugin/rodalies/via"
+    ]
+  },
+
+  "meg_rodalies.cat.i":{
+    "sounds":[
+      "plugin/rodalies/i"
+    ]
+  },
+
+  "meg_rodalies.cat.lletra.r":{
+    "sounds":[
+      "plugin/rodalies/lletres/erra"
+    ]
+  },
+
+  "meg_rodalies.cat.lletra.t":{
+    "sounds":[
+      "plugin/rodalies/lletres/te"
+    ]
+  },
+
+  "meg_rodalies.cat.lletra.g":{
+    "sounds":[
+      "plugin/rodalies/lletres/ge"
+    ]
+  },
+
+  "meg_rodalies.cat.prefix.catalunya_expres":{
+    "sounds":[
+      "plugin/rodalies/prefixos/catalunya_expres"
+    ]
+  },
+
+  "meg_rodalies.cat.prefix.intercity":{
+    "sounds":[
+      "plugin/rodalies/prefixos/intercity"
+    ]
+  },
+
+  "meg_rodalies.cat.prefix.media_distancia":{
+    "sounds":[
+      "plugin/rodalies/prefixos/media_distancia"
+    ]
+  },
+
+  "meg_rodalies.cat.prefix.regional":{
+    "sounds":[
+      "plugin/rodalies/prefixos/regional"
+    ]
+  },
+
+  "meg_rodalies.cat.prefix.regional_expres":{
+    "sounds":[
+      "plugin/rodalies/prefixos/regional_expres"
+    ]
+  },
+
+  "meg_rodalies.cat.prefix.rodalies":{
+    "sounds":[
+      "plugin/rodalies/prefixos/rodalies"
+    ]
+  },
+
+  "meg_rodalies.cat.prefix.tren":{
+    "sounds":[
+      "plugin/rodalies/prefixos/tren"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.para_a":{
+    "sounds":[
+      "plugin/rodalies/anotacions/para_a"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.para_a_totes_les_estacions":{
+    "sounds":[
+      "plugin/rodalies/anotacions/para_a_totes_les_estacions"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.sense_parada_a_totes_les_estacions":{
+    "sounds":[
+      "plugin/rodalies/anotacions/sense_parada_a_totes_les_estacions"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.para_a_totes_les_estacions_excepte":{
+    "sounds":[
+      "plugin/rodalies/anotacions/para_a_totes_les_estacions_excepte"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.per_la_via_de":{
+    "sounds":[
+      "plugin/rodalies/anotacions/per_la_via_de"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.per_aquest_tren_no_son_valids_els_bitllets_de_rodalies":{
+    "sounds":[
+      "plugin/rodalies/anotacions/per_aquest_tren_no_son_valids_els_bitllets_de_rodalies"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.tren_accessible":{
+    "sounds":[
+      "plugin/rodalies/anotacions/tren_accessible"
+    ]
+  },
+
+  "meg_rodalies.cat.anotacions.tren_curt":{
+    "sounds":[
+      "plugin/rodalies/anotacions/tren_curt"
+    ]
+  },
+
+  "meg_rodalies.cat.error.dades_desconegudes_1":{
+    "sounds":[
+      "plugin/rodalies/errors/dades_desconegudes_p1"
+    ]
+  },
+
+  "meg_rodalies.cat.error.dades_desconegudes_2":{
+    "sounds":[
+      "plugin/rodalies/errors/dades_desconegudes_p2"
+    ]
+  },
+
+  "meg_rodalies.cat.error.disculpes":{
+    "sounds":[
+      "plugin/rodalies/errors/disculpin_les_molesties"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.0":{
+    "sounds":[
+      "plugin/rodalies/numero/zero"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.1":{
+    "sounds":[
+      "plugin/rodalies/numero/un"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.2":{
+    "sounds":[
+      "plugin/rodalies/numero/dos"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.3":{
+    "sounds":[
+      "plugin/rodalies/numero/tres"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.4":{
+    "sounds":[
+      "plugin/rodalies/numero/quatre"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.5":{
+    "sounds":[
+      "plugin/rodalies/numero/cinc"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.6":{
+    "sounds":[
+      "plugin/rodalies/numero/sis"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.7":{
+    "sounds":[
+      "plugin/rodalies/numero/set"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.8":{
+    "sounds":[
+      "plugin/rodalies/numero/vuit"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.9":{
+    "sounds":[
+      "plugin/rodalies/numero/nou"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.10":{
+    "sounds":[
+      "plugin/rodalies/numero/deu"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.11":{
+    "sounds":[
+      "plugin/rodalies/numero/onze"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.12":{
+    "sounds":[
+      "plugin/rodalies/numero/dotze"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.13":{
+    "sounds":[
+      "plugin/rodalies/numero/tretze"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.14":{
+    "sounds":[
+      "plugin/rodalies/numero/catorze"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.15":{
+    "sounds":[
+      "plugin/rodalies/numero/quinze"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.16":{
+    "sounds":[
+      "plugin/rodalies/numero/setze"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.17":{
+    "sounds":[
+      "plugin/rodalies/numero/diset"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.18":{
+    "sounds":[
+      "plugin/rodalies/numero/divuit"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.19":{
+    "sounds":[
+      "plugin/rodalies/numero/dinou"
+    ]
+  },
+
+  "meg_rodalies.cat.numero.20":{
+    "sounds":[
+      "plugin/rodalies/numero/vint"
+    ]
+  },
+
+  "meg_rodalies.es.es_a_la_via":{
+    "sounds":[
+      "plugin/rodalies/estacionado_en_via"
+    ]
+  },
+
+  "meg_rodalies.es.amb_destinacio":{
+    "sounds":[
+      "plugin/rodalies/con_destino"
+    ]
+  },
+
+  "meg_rodalies.es.proxima_circulacio_per_via":{
+    "sounds":[
+      "plugin/rodalies/proxima_circulacion_por_via"
+    ]
+  },
+
+  "meg_rodalies.es.tren_sense_parada":{
+    "sounds":[
+      "plugin/rodalies/tren_sin_parada"
+    ]
+  },
+
+  "meg_rodalies.es.i":{
+    "sounds":[
+      "plugin/rodalies/y"
+    ]
+  },
+
+  "meg_rodalies.es.via":{
+    "sounds":[
+      "plugin/rodalies/via_es"
+    ]
+  },
+
+  "meg_rodalies.es.lletra.r":{
+    "sounds":[
+      "plugin/rodalies/lletres/erre"
+    ]
+  },
+
+  "meg_rodalies.es.lletra.t":{
+    "sounds":[
+      "plugin/rodalies/lletres/te_es"
+    ]
+  },
+
+  "meg_rodalies.es.lletra.g":{
+    "sounds":[
+      "plugin/rodalies/lletres/ge_es"
+    ]
+  },
+
+  "meg_rodalies.es.prefix.catalunya_expres":{
+    "sounds":[
+      "plugin/rodalies/prefixos/cataluna_expres"
+    ]
+  },
+
+  "meg_rodalies.es.prefix.intercity":{
+    "sounds":[
+      "plugin/rodalies/prefixos/intercity_es"
+    ]
+  },
+
+  "meg_rodalies.es.prefix.media_distancia":{
+    "sounds":[
+      "plugin/rodalies/prefixos/media_distancia"
+    ]
+  },
+
+  "meg_rodalies.es.prefix.regional":{
+    "sounds":[
+      "plugin/rodalies/prefixos/regional_es"
+    ]
+  },
+
+  "meg_rodalies.es.prefix.regional_expres":{
+    "sounds":[
+      "plugin/rodalies/prefixos/regional_expres_es"
+    ]
+  },
+
+  "meg_rodalies.es.prefix.rodalies":{
+    "sounds":[
+      "plugin/rodalies/prefixos/cercanias"
+    ]
+  },
+
+  "meg_rodalies.es.prefix.tren":{
+    "sounds":[
+      "plugin/rodalies/prefixos/tren_es"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.para_a":{
+    "sounds":[
+      "plugin/rodalies/anotacions/para_en"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.para_a_totes_les_estacions":{
+    "sounds":[
+      "plugin/rodalies/anotacions/para_en_todas_las_estaciones"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.sense_parada_a_totes_les_estacions":{
+    "sounds":[
+      "plugin/rodalies/anotacions/sin_parada_en_todas_las_estaciones"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.para_a_totes_les_estacions_excepte":{
+    "sounds":[
+      "plugin/rodalies/anotacions/para_en_todas_las_estaciones_excepto"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.per_la_via_de":{
+    "sounds":[
+      "plugin/rodalies/anotacions/por_la_via_de"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.per_aquest_tren_no_son_valids_els_bitllets_de_rodalies":{
+    "sounds":[
+      "plugin/rodalies/anotacions/para_este_tren_no_son_validos_los_bitlletes_de_cercanias"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.tren_accessible":{
+    "sounds":[
+      "plugin/rodalies/anotacions/tren_accesible"
+    ]
+  },
+
+  "meg_rodalies.es.anotacions.tren_curt":{
+    "sounds":[
+      "plugin/rodalies/anotacions/tren_corto"
+    ]
+  },
+
+  "meg_rodalies.es.numero.0":{
+    "sounds":[
+      "plugin/rodalies/numero/cero"
+    ]
+  },
+
+  "meg_rodalies.es.numero.1":{
+    "sounds":[
+      "plugin/rodalies/numero/uno"
+    ]
+  },
+
+  "meg_rodalies.es.numero.2":{
+    "sounds":[
+      "plugin/rodalies/numero/dos_es"
+    ]
+  },
+
+  "meg_rodalies.es.numero.3":{
+    "sounds":[
+      "plugin/rodalies/numero/tres_es"
+    ]
+  },
+
+  "meg_rodalies.es.numero.4":{
+    "sounds":[
+      "plugin/rodalies/numero/cuatro"
+    ]
+  },
+
+  "meg_rodalies.es.numero.5":{
+    "sounds":[
+      "plugin/rodalies/numero/cinco"
+    ]
+  },
+
+  "meg_rodalies.es.numero.6":{
+    "sounds":[
+      "plugin/rodalies/numero/seis"
+    ]
+  },
+
+  "meg_rodalies.es.numero.7":{
+    "sounds":[
+      "plugin/rodalies/numero/siete"
+    ]
+  },
+
+  "meg_rodalies.es.numero.8":{
+    "sounds":[
+      "plugin/rodalies/numero/ocho"
+    ]
+  },
+
+  "meg_rodalies.es.numero.9":{
+    "sounds":[
+      "plugin/rodalies/numero/nueve"
+    ]
+  },
+
+  "meg_rodalies.es.numero.10":{
+    "sounds":[
+      "plugin/rodalies/numero/diez"
+    ]
+  },
+
+  "meg_rodalies.es.numero.11":{
+    "sounds":[
+      "plugin/rodalies/numero/once"
+    ]
+  },
+
+  "meg_rodalies.es.numero.12":{
+    "sounds":[
+      "plugin/rodalies/numero/doce"
+    ]
+  },
+
+  "meg_rodalies.es.numero.13":{
+    "sounds":[
+      "plugin/rodalies/numero/trece"
+    ]
+  },
+
+  "meg_rodalies.es.numero.14":{
+    "sounds":[
+      "plugin/rodalies/numero/catorce"
+    ]
+  },
+
+  "meg_rodalies.es.numero.15":{
+    "sounds":[
+      "plugin/rodalies/numero/quince"
+    ]
+  },
+
+  "meg_rodalies.es.numero.16":{
+    "sounds":[
+      "plugin/rodalies/numero/dieciseis"
+    ]
+  },
+
+  "meg_rodalies.es.numero.17":{
+    "sounds":[
+      "plugin/rodalies/numero/diecisiete"
+    ]
+  },
+
+  "meg_rodalies.es.numero.18":{
+    "sounds":[
+      "plugin/rodalies/numero/dieciocho"
+    ]
+  },
+
+  "meg_rodalies.es.numero.19":{
+    "sounds":[
+      "plugin/rodalies/numero/diecinueve"
+    ]
+  },
+
+  "meg_rodalies.es.error.dades_desconegudes_1":{
+    "sounds":[
+      "plugin/rodalies/errors/datos_desconocidos_p1"
+    ]
+  },
+
+  "meg_rodalies.es.error.dades_desconegudes_2":{
+    "sounds":[
+      "plugin/rodalies/errors/datos_desconocidos_p2"
+    ]
+  },
+
+  "meg_rodalies.es.error.disculpes":{
+    "sounds":[
+      "plugin/rodalies/errors/disculpen_las_molestias"
+    ]
+  },
+
+  "meg_rodalies.es.numero.20":{
+    "sounds":[
+      "plugin/rodalies/numero/veinte"
+    ]
+  },
+
+  "meg_rodalies.estacio.aeroport_del_prat":{
+    "sounds":[
+      "plugin/rodalies/estacions/aeroport_del_prat"
+    ]
+  },
+
+  "meg_rodalies.estacio.aeroport":{
+    "sounds":[
+      "plugin/rodalies/estacions/aeroport_del_prat"
+    ]
+  },
+
+  "meg_rodalies.estacio.alcover":{
+    "sounds":[
+      "plugin/rodalies/estacions/alcover"
+    ]
+  },
+
+  "meg_rodalies.estacio.altafulla_tamarit":{
+    "sounds":[
+      "plugin/rodalies/estacions/altafulla_tamarit"
+    ]
+  },
+
+  "meg_rodalies.estacio.altafulla___tamarit":{
+    "sounds":[
+      "plugin/rodalies/estacions/altafulla_tamarit"
+    ]
+  },
+
+  "meg_rodalies.estacio.arenys_de_mar":{
+    "sounds":[
+      "plugin/rodalies/estacions/arenys_de_mar"
+    ]
+  },
+
+  "meg_rodalies.estacio.badalona":{
+    "sounds":[
+      "plugin/rodalies/estacions/badalona"
+    ]
+  },
+
+  "meg_rodalies.estacio.balenya":{
+    "sounds":[
+      "plugin/rodalies/estacions/balenya"
+    ]
+  },
+
+  "meg_rodalies.estacio.barbera_del_valles":{
+    "sounds":[
+      "plugin/rodalies/estacions/barbera_del_valles"
+    ]
+  },
+
+  "meg_rodalies.estacio.arc_de_triomf":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_arc_de_triomf"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_arc_de_triomf":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_arc_de_triomf"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___arc_de_triomf":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_arc_de_triomf"
+    ]
+  },
+
+  "meg_rodalies.estacio.estacio_de_franca":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_estacio_de_franca"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_estacio_de_franca":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_estacio_de_franca"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___estacio_de_franca":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_estacio_de_franca"
+    ]
+  },
+
+  "meg_rodalies.estacio.pg_de_gracia":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_passeig_de_gracia"
+    ]
+  },
+
+  "meg_rodalies.estacio.passeig_de_gracia":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_passeig_de_gracia"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_pg_de_gracia":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_passeig_de_gracia"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___pg_de_gracia":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_passeig_de_gracia"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_passeig_de_gracia":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_passeig_de_gracia"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___passeig_de_gracia":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_passeig_de_gracia"
+    ]
+  },
+
+  "meg_rodalies.estacio.placa_catalunya":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_placa_catalunya"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_placa_catalunya":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_placa_catalunya"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___placa_catalunya":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_placa_catalunya"
+    ]
+  },
+
+  "meg_rodalies.estacio.sants":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_sants"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_sants":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_sants"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___sants":{
+    "sounds":[
+      "plugin/rodalies/estacions/barcelona_sants"
+    ]
+  },
+
+  "meg_rodalies.estacio.bellvitge":{
+    "sounds":[
+      "plugin/rodalies/estacions/bellvitge"
+    ]
+  },
+
+  "meg_rodalies.estacio.blanes":{
+    "sounds":[
+      "plugin/rodalies/estacions/blanes"
+    ]
+  },
+
+  "meg_rodalies.estacio.bordils_juia":{
+    "sounds":[
+      "plugin/rodalies/estacions/bordils_juia"
+    ]
+  },
+
+  "meg_rodalies.estacio.bordils___juia":{
+    "sounds":[
+      "plugin/rodalies/estacions/bordils_juia"
+    ]
+  },
+
+  "meg_rodalies.estacio.borgonya":{
+    "sounds":[
+      "plugin/rodalies/estacions/borgonya"
+    ]
+  },
+
+  "meg_rodalies.estacio.calella":{
+    "sounds":[
+      "plugin/rodalies/estacions/calella"
+    ]
+  },
+
+  "meg_rodalies.estacio.cambrils":{
+    "sounds":[
+      "plugin/rodalies/estacions/cambrils"
+    ]
+  },
+
+  "meg_rodalies.estacio.camp_redo":{
+    "sounds":[
+      "plugin/rodalies/estacions/camp_redo"
+    ]
+  },
+
+  "meg_rodalies.estacio.camp___redo":{
+    "sounds":[
+      "plugin/rodalies/estacions/camp_redo"
+    ]
+  },
+
+  "meg_rodalies.estacio.castellbell_el_vilar":{
+    "sounds":[
+      "plugin/rodalies/estacions/castellbell_i_el_vilar"
+    ]
+  },
+
+  "meg_rodalies.estacio.castellbell___el_vilar":{
+    "sounds":[
+      "plugin/rodalies/estacions/castellbell_i_el_vilar"
+    ]
+  },
+
+  "meg_rodalies.estacio.castellbell_i_el_vilar":{
+    "sounds":[
+      "plugin/rodalies/estacions/castellbell_i_el_vilar"
+    ]
+  },
+
+  "meg_rodalies.estacio.cerbere":{
+    "sounds":[
+      "plugin/rodalies/estacions/cerbere"
+    ]
+  },
+
+  "meg_rodalies.estacio.cerdanyola_del_valles":{
+    "sounds":[
+      "plugin/rodalies/estacions/cerdanyola_del_valles"
+    ]
+  },
+
+  "meg_rodalies.estacio.cerdanyola_universitat":{
+    "sounds":[
+      "plugin/rodalies/estacions/cerdanyola_universitat"
+    ]
+  },
+
+  "meg_rodalies.estacio.cunit":{
+    "sounds":[
+      "plugin/rodalies/estacions/cunit"
+    ]
+  },
+
+  "meg_rodalies.estacio.clot_arago":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_clot_arago"
+    ]
+  },
+
+  "meg_rodalies.estacio.el_clot_arago":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_clot_arago"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_el_clot_arago":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_clot_arago"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___el_clot_arago":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_clot_arago"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_clot_arago":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_clot_arago"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___clot_arago":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_clot_arago"
+    ]
+  },
+
+  "meg_rodalies.estacio.el_prat":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_prat_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_el_prat":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_prat_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___el_prat":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_prat_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.el_prat_de_llobregat":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_prat_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona_el_prat_de_llobregat":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_prat_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.barcelona___el_prat_de_llobregat":{
+    "sounds":[
+      "plugin/rodalies/estacions/el_prat_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.figueres":{
+    "sounds":[
+      "plugin/rodalies/estacions/figueres"
+    ]
+  },
+
+  "meg_rodalies.estacio.flaca":{
+    "sounds":[
+      "plugin/rodalies/estacions/flaca"
+    ]
+  },
+
+  "meg_rodalies.estacio.les_franqueses_del_valles":{
+    "sounds":[
+      "plugin/rodalies/estacions/franqueses_del_valles"
+    ]
+  },
+
+  "meg_rodalies.estacio.franqueses_del_valles":{
+    "sounds":[
+      "plugin/rodalies/estacions/franqueses_del_valles"
+    ]
+  },
+
+  "meg_rodalies.estacio.gelida":{
+    "sounds":[
+      "plugin/rodalies/estacions/gelida"
+    ]
+  },
+
+  "meg_rodalies.estacio.girona":{
+    "sounds":[
+      "plugin/rodalies/estacions/girona"
+    ]
+  },
+
+  "meg_rodalies.estacio.granollers":{
+    "sounds":[
+      "plugin/rodalies/estacions/granollers_centre"
+    ]
+  },
+
+  "meg_rodalies.estacio.granollers_centre":{
+    "sounds":[
+      "plugin/rodalies/estacions/granollers_centre"
+    ]
+  },
+
+  "meg_rodalies.estacio.gualba":{
+    "sounds":[
+      "plugin/rodalies/estacions/gualba"
+    ]
+  },
+
+  "meg_rodalies.estacio.hospitalet":{
+    "sounds":[
+      "plugin/rodalies/estacions/hospitalet_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.hospitalet_de_llobregat":{
+    "sounds":[
+      "plugin/rodalies/estacions/hospitalet_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.l_hospitalet":{
+    "sounds":[
+      "plugin/rodalies/estacions/hospitalet_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.l_hospitalet_de_llobregat":{
+    "sounds":[
+      "plugin/rodalies/estacions/hospitalet_de_llobregat"
+    ]
+  },
+
+  "meg_rodalies.estacio.hostalric":{
+    "sounds":[
+      "plugin/rodalies/estacions/hostalric"
+    ]
+  },
+
+  "meg_rodalies.estacio.aldea_amposta_tortosa":{
+    "sounds":[
+      "plugin/rodalies/estacions/l_aldea_amposta_tortosa"
+    ]
+  },
+
+  "meg_rodalies.estacio.aldea___amposta___tortosa":{
+    "sounds":[
+      "plugin/rodalies/estacions/l_aldea_amposta_tortosa"
+    ]
+  },
+
+  "meg_rodalies.estacio.l_aldea_amposta_tortosa":{
+    "sounds":[
+      "plugin/rodalies/estacions/l_aldea_amposta_tortosa"
+    ]
+  },
+
+  "meg_rodalies.estacio.l_aldea___amposta___tortosa":{
+    "sounds":[
+      "plugin/rodalies/estacions/l_aldea_amposta_tortosa"
+    ]
+  },
+
+  "meg_rodalies.estacio.l_arboc":{
+    "sounds":[
+      "plugin/rodalies/estacions/l_arboc"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_floresta":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_floresta"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_molina":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_molina"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_plana_picamoixons":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_plana_picamoixons"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_plana___picamoixons":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_plana_picamoixons"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_selva_del_camp":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_selva_del_camp"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_tor_de_querol_enveitg":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_tor_de_querol"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_tor_de_querol___enveitg":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_tor_de_querol"
+    ]
+  },
+
+  "meg_rodalies.estacio.la_tor_de_querol":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_tor_de_querol"
+    ]
+  },
+
+  "meg_rodalies.estacio.latour_de_carol_enveitg":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_tor_de_querol"
+    ]
+  },
+
+  "meg_rodalies.estacio.latour_de_carol___enveitg":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_tor_de_querol"
+    ]
+  },
+
+  "meg_rodalies.estacio.latour_de_carol":{
+    "sounds":[
+      "plugin/rodalies/estacions/la_tor_de_querol"
+    ]
+  },
+
+  "meg_rodalies.estacio.lavern_subirats":{
+    "sounds":[
+      "plugin/rodalies/estacions/lavern_subirats"
+    ]
+  },
+
+  "meg_rodalies.estacio.lavern___subirats":{
+    "sounds":[
+      "plugin/rodalies/estacions/lavern_subirats"
+    ]
+  },
+
+  "meg_rodalies.estacio.les_borges_blanques":{
+    "sounds":[
+      "plugin/rodalies/estacions/les_borges_blanques"
+    ]
+  },
+
+  "meg_rodalies.estacio.lleida_pirineus":{
+    "sounds":[
+      "plugin/rodalies/estacions/lleida_pirineus"
+    ]
+  },
+
+  "meg_rodalies.estacio.lleida___pirineus":{
+    "sounds":[
+      "plugin/rodalies/estacions/lleida_pirineus"
+    ]
+  },
+
+  "meg_rodalies.estacio.lleida":{
+    "sounds":[
+      "plugin/rodalies/estacions/lleida_pirineus"
+    ]
+  },
+
+  "meg_rodalies.estacio.macanet___macannes":{
+    "sounds":[
+      "plugin/rodalies/estacions/macanet_macannes"
+    ]
+  },
+
+  "meg_rodalies.estacio.macanet_macannes":{
+    "sounds":[
+      "plugin/rodalies/estacions/macanet_macannes"
+    ]
+  },
+
+  "meg_rodalies.estacio.macanet":{
+    "sounds":[
+      "plugin/rodalies/estacions/macanet_macannes"
+    ]
+  },
+
+  "meg_rodalies.estacio.manresa":{
+    "sounds":[
+      "plugin/rodalies/estacions/manresa"
+    ]
+  },
+
+  "meg_rodalies.estacio.martorell":{
+    "sounds":[
+      "plugin/rodalies/estacions/martorell"
+    ]
+  },
+
+  "meg_rodalies.estacio.mataro":{
+    "sounds":[
+      "plugin/rodalies/estacions/mataro"
+    ]
+  },
+
+  "meg_rodalies.estacio.molins_de_rei":{
+    "sounds":[
+      "plugin/rodalies/estacions/molins_de_rei"
+    ]
+  },
+
+  "meg_rodalies.estacio.montblanc":{
+    "sounds":[
+      "plugin/rodalies/estacions/montblanc"
+    ]
+  },
+
+  "meg_rodalies.estacio.montcada_i_reixac":{
+    "sounds":[
+      "plugin/rodalies/estacions/montcada_i_reixac"
+    ]
+  },
+
+  "meg_rodalies.estacio.montcada_i_reixac_santa_maria":{
+    "sounds":[
+      "plugin/rodalies/estacions/montcada_i_reixac_santa_maria"
+    ]
+  },
+
+  "meg_rodalies.estacio.montcada_i_reixac___santa_maria":{
+    "sounds":[
+      "plugin/rodalies/estacions/montcada_i_reixac_santa_maria"
+    ]
+  },
+
+  "meg_rodalies.estacio.montmelo":{
+    "sounds":[
+      "plugin/rodalies/estacions/montmelo"
+    ]
+  },
+
+  "meg_rodalies.estacio.portbou":{
+    "sounds":[
+      "plugin/rodalies/estacions/portbou"
+    ]
+  },
+
+  "meg_rodalies.estacio.puigcerda":{
+    "sounds":[
+      "plugin/rodalies/estacions/puigcerda"
+    ]
+  },
+
+  "meg_rodalies.estacio.puigverd_de_lleida_artesa_de_lleida":{
+    "sounds":[
+      "plugin/rodalies/estacions/puigverd_de_lleida_artesa_de_lleida"
+    ]
+  },
+
+  "meg_rodalies.estacio.puigverd_de_lleida___artesa_de_lleida":{
+    "sounds":[
+      "plugin/rodalies/estacions/puigverd_de_lleida_artesa_de_lleida"
+    ]
+  },
+
+  "meg_rodalies.estacio.reus":{
+    "sounds":[
+      "plugin/rodalies/estacions/reus"
+    ]
+  },
+
+  "meg_rodalies.estacio.reus_bellissens":{
+    "sounds":[
+      "plugin/rodalies/estacions/reus_bellissens"
+    ]
+  },
+
+  "meg_rodalies.estacio.reus___bellissens":{
+    "sounds":[
+      "plugin/rodalies/estacions/reus_bellissens"
+    ]
+  },
+
+  "meg_rodalies.estacio.ribes_de_freser":{
+    "sounds":[
+      "plugin/rodalies/estacions/ribes_de_freser"
+    ]
+  },
+
+  "meg_rodalies.estacio.ripoll":{
+    "sounds":[
+      "plugin/rodalies/estacions/ripoll"
+    ]
+  },
+
+  "meg_rodalies.estacio.rubi":{
+    "sounds":[
+      "plugin/rodalies/estacions/rubi"
+    ]
+  },
+
+  "meg_rodalies.estacio.sabadell_centre":{
+    "sounds":[
+      "plugin/rodalies/estacions/sabadell_centre"
+    ]
+  },
+
+  "meg_rodalies.estacio.sabadell_nord":{
+    "sounds":[
+      "plugin/rodalies/estacions/sabadell_nord"
+    ]
+  },
+
+  "meg_rodalies.estacio.salomo":{
+    "sounds":[
+      "plugin/rodalies/estacions/salomo"
+    ]
+  },
+
+  "meg_rodalies.estacio.port_aventura":{
+    "sounds":[
+      "plugin/rodalies/estacions/salou_port_aventura"
+    ]
+  },
+
+  "meg_rodalies.estacio.port___aventura":{
+    "sounds":[
+      "plugin/rodalies/estacions/salou_port_aventura"
+    ]
+  },
+
+  "meg_rodalies.estacio.salou_portaventura":{
+    "sounds":[
+      "plugin/rodalies/estacions/salou_port_aventura"
+    ]
+  },
+
+  "meg_rodalies.estacio.salou___portaventura":{
+    "sounds":[
+      "plugin/rodalies/estacions/salou_port_aventura"
+    ]
+  },
+
+  "meg_rodalies.estacio.salou_port_aventura":{
+    "sounds":[
+      "plugin/rodalies/estacions/salou_port_aventura"
+    ]
+  },
+
+  "meg_rodalies.estacio.salou___port_aventura":{
+    "sounds":[
+      "plugin/rodalies/estacions/salou_port_aventura"
+    ]
+  },
+
+  "meg_rodalies.estacio.sant_celoni":{
+    "sounds":[
+      "plugin/rodalies/estacions/sant_celoni"
+    ]
+  },
+
+  "meg_rodalies.estacio.sant_cugat_del_valles":{
+    "sounds":[
+      "plugin/rodalies/estacions/sant_cugat_del_valles"
+    ]
+  },
+
+  "meg_rodalies.estacio.sant_marti_de_centelles":{
+    "sounds":[
+      "plugin/rodalies/estacions/sant_marti_de_centelles"
+    ]
+  },
+
+  "meg_rodalies.estacio.sant_pol_de_mar":{
+    "sounds":[
+      "plugin/rodalies/estacions/sant_pol_de_mar"
+    ]
+  },
+
+  "meg_rodalies.estacio.sant_sadurni_d_anoia":{
+    "sounds":[
+      "plugin/rodalies/estacions/sant_sadurni_d_anoia"
+    ]
+  },
+
+  "meg_rodalies.estacio.sant_vicenc_de_calders":{
+    "sounds":[
+      "plugin/rodalies/estacions/sant_vicenc_de_calders"
+    ]
+  },
+
+  "meg_rodalies.estacio.santa_susanna":{
+    "sounds":[
+      "plugin/rodalies/estacions/santa_susanna"
+    ]
+  },
+
+  "meg_rodalies.estacio.sitges":{
+    "sounds":[
+      "plugin/rodalies/estacions/sitges"
+    ]
+  },
+
+  "meg_rodalies.estacio.tarragona":{
+    "sounds":[
+      "plugin/rodalies/estacions/tarragona"
+    ]
+  },
+
+  "meg_rodalies.estacio.terrassa":{
+    "sounds":[
+      "plugin/rodalies/estacions/terrassa"
+    ]
+  },
+
+  "meg_rodalies.estacio.tordera":{
+    "sounds":[
+      "plugin/rodalies/estacions/tordera"
+    ]
+  },
+
+  "meg_rodalies.estacio.tortosa":{
+    "sounds":[
+      "plugin/rodalies/estacions/tortosa"
+    ]
+  },
+
+  "meg_rodalies.estacio.ulldecona_alcanar_la_senia":{
+    "sounds":[
+      "plugin/rodalies/estacions/ulldecona_alcanar_la_senia"
+    ]
+  },
+
+  "meg_rodalies.estacio.ulldecona___alcanar___la_senia":{
+    "sounds":[
+      "plugin/rodalies/estacions/ulldecona_alcanar_la_senia"
+    ]
+  },
+
+  "meg_rodalies.estacio.ulldecona":{
+    "sounds":[
+      "plugin/rodalies/estacions/ulldecona_alcanar_la_senia"
+    ]
+  },
+
+  "meg_rodalies.estacio.valls":{
+    "sounds":[
+      "plugin/rodalies/estacions/valls"
+    ]
+  },
+
+  "meg_rodalies.estacio.vic":{
+    "sounds":[
+      "plugin/rodalies/estacions/vic"
+    ]
+  },
+
+  "meg_rodalies.estacio.vilaseca":{
+    "sounds":[
+      "plugin/rodalies/estacions/vila_seca"
+    ]
+  },
+
+  "meg_rodalies.estacio.vila_seca":{
+    "sounds":[
+      "plugin/rodalies/estacions/vila_seca"
+    ]
+  },
+
+  "meg_rodalies.estacio.vila___seca":{
+    "sounds":[
+      "plugin/rodalies/estacions/vila_seca"
+    ]
+  },
+
+  "meg_rodalies.estacio.vilafranca":{
+    "sounds":[
+      "plugin/rodalies/estacions/vilafranca_del_penedes"
+    ]
+  },
+
+  "meg_rodalies.estacio.vilafranca_del_penedes":{
+    "sounds":[
+      "plugin/rodalies/estacions/vilafranca_del_penedes"
+    ]
+  },
+
+  "meg_rodalies.estacio.vilanova":{
+    "sounds":[
+      "plugin/rodalies/estacions/vilanova_i_la_geltru"
+    ]
+  },
+
+  "meg_rodalies.estacio.vilanova___la_geltru":{
+    "sounds":[
+      "plugin/rodalies/estacions/vilanova_i_la_geltru"
+    ]
+  },
+
+  "meg_rodalies.estacio.vilanova_i_la_geltru":{
+    "sounds":[
+      "plugin/rodalies/estacions/vilanova_i_la_geltru"
+    ]
+  },
+
+  "meg_rodalies.estacio.vinaixa":{
+    "sounds":[
+      "plugin/rodalies/estacions/vinaixa"
+    ]
+  },
+
+  "meg.bonviatge.dt":{
+    "sounds":[
+      "trambcn/meg.bonviatge.destinacio"
+    ],
+    "subtitle":"Megafonia TRAM destinació: Bon Viatge"
+  },
+
+  "meg.francesc.dt":{
+    "sounds":[
+      "trambcn/meg.francescmacia.destinacio"
+    ],
+    "subtitle":"Megafonia TRAM destinació: Francesc Macià"
+  },
+
+  "meg.francesc":{
+    "sounds":[
+      "trambcn/meg.francescmacia"
+    ],
+    "subtitle":"Megafonia TRAM: Francesc Macià"
+  },
+
+  "meg.zuniversitaria":{
+    "sounds":[
+      "trambcn/meg.zonauniversitaria"
+    ],
+    "subtitle":"Megafonia TRAM: Zona Universitària"
+  },
+
+  "meg.ernestlluch":{
+    "sounds":[
+      "trambcn/meg.ernestlluch"
+    ],
+    "subtitle":"Megafonia TRAM: Ernest Lluch"
+  },
+
+  "meg.elpedro":{
+    "sounds":[
+      "trambcn/meg.elpedro"
+    ],
+    "subtitle":"Megafonia TRAM: El Pedró"
+  },
+
+  "meg.cornella":{
+    "sounds":[
+      "trambcn/meg.cornellacentre"
+    ],
+    "subtitle":"Megafonia TRAM: Cornellà Centre"
+  },
+
+  "meg.lesaigues":{
+    "sounds":[
+      "trambcn/meg.lesaigues"
+    ],
+    "subtitle":"Megafonia TRAM: Les Aigües"
+  },
+
+  "meg.bonviatge":{
+    "sounds":[
+      "trambcn/meg.bonviatge"
+    ],
+    "subtitle":"Megafonia TRAM: Bon Viatge"
+  },
+
+  "trambcn.tram.horn":{
+    "sounds":[
+      "trambcn/horn"
+    ],
+    "subtitle":"Campanillas de tranvía."
+  },
+
+  "trambcn.tram.portes":{
+    "sounds":[
+      "trambcn/avisportes"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:item/golden_carrot"
+    },
+
+    "overrides": [
+  		{ "predicate": {"custom_model_data": 1}, "model": "custom/objetos/items/alimentos/hamburgesa"},
+  		{ "predicate": {"custom_model_data": 2}, "model": "custom/objetos/items/alimentos/cubo_de_pollo_frito"}
+ ]
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/shulker_shell"
+  },
+
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "custom/objetos/items/gorras/ferrocarril/adif" },
+    { "predicate": { "custom_model_data": 2 }, "model": "custom/objetos/items/gorras/ferrocarril/fgc_antiguo" },
+    { "predicate": { "custom_model_data": 3 }, "model": "custom/objetos/items/gorras/ferrocarril/fgc_nuevo" },
+    { "predicate": { "custom_model_data": 4 }, "model": "custom/objetos/items/gorras/ferrocarril/renfe_antiguo" },
+    { "predicate": { "custom_model_data": 5 }, "model": "custom/objetos/items/gorras/ferrocarril/renfe_galleta" },
+    { "predicate": { "custom_model_data": 6 }, "model": "custom/objetos/items/gorras/bruja" },
+    { "predicate": { "custom_model_data": 7 }, "model": "custom/objetos/items/gorras/navidad" }
+  ]
+}

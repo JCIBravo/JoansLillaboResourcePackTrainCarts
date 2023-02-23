@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "items/jcibravo/renfe/440da"
+	},
+	"elements": [
+		{
+			"name": "porta",
+			"from": [8, 3.075, 0.25],
+			"to": [9.575, 12.6, 0.25],
+			"faces": {
+				"north": {"uv": [4.375, 8.3125, 4.85938, 9.75], "texture": "#0"},
+				"south": {"uv": [4.85938, 12.21875, 4.375, 13.65625], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [12.25, 25.5, 0],
+			"scale": [4, 4, 3.5]
+		}
+	}
+}

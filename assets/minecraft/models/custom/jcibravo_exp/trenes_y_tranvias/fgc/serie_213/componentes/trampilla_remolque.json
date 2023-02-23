@@ -1,0 +1,107 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"5": "items/jcibravo/fgc/fgc213b"
+	},
+	"elements": [
+		{
+			"name": "rampa",
+			"from": [5.3, 3.425, 0.005],
+			"to": [10.675, 5.125, 0.255],
+			"rotation": {"angle": 0, "axis": "y", "origin": [22.5875, 4.275, 0.13]},
+			"faces": {
+				"north": {"uv": [2.40625, 5.34375, 3.875, 5.625], "texture": "#5"},
+				"east": {"uv": [2.40625, 5.34375, 2.28125, 5.625], "texture": "#5"},
+				"south": {"uv": [12.34375, 13.09375, 12.40625, 13.125], "texture": "#5"},
+				"west": {"uv": [2.40625, 5.34375, 2.28125, 5.625], "texture": "#5"},
+				"up": {"uv": [2.40625, 5.34375, 3.875, 5.625], "texture": "#5"},
+				"down": {"uv": [2.40625, 5.34375, 3.875, 5.625], "texture": "#5"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [13.75, 21.75, 0],
+			"scale": [4, 3.5, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "213bb",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "group",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [
+						{
+							"name": "interior1",
+							"origin": [0, 0, 0],
+							"color": 0,
+							"children": []
+						},
+						{
+							"name": "interior2",
+							"origin": [0, 0, 0],
+							"color": 0,
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "catenaria",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "catenaria",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": []
+				}
+			]
+		},
+		0,
+		{
+			"name": "deixinsortir",
+			"origin": [22.8, 16, 0.725],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "deixinsortir",
+			"origin": [22.8, 16, 0.725],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "deixinsortir",
+			"origin": [22.8, 16, 0.725],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "deixinsortir",
+			"origin": [22.8, 16, 0.725],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "deixinsortir",
+			"origin": [22.8, 16, 0.725],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "deixinsortir",
+			"origin": [22.8, 16, 0.725],
+			"color": 0,
+			"children": []
+		}
+	]
+}

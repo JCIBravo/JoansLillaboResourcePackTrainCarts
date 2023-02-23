@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+		"top": "block/tmb_platform_edge_1",
+		"side": "minecraft:block/gray_concrete",
+		"bottom": "minecraft:block/gray_concrete"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, -30.42, 0],
+			"scale": [1.601, 1.601, 1.601]
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "logos/fgcpmr",
+		"5": "items/jcibravo/fgc/fgc213b",
+		"particle": "logos/fgcpmr"
+	},
+	"elements": [
+		{
+			"name": "porta",
+			"from": [5.75, 3.1, 0.255],
+			"to": [8.05, 15.15, 0.255],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.05, 9.125, 0.255]},
+			"faces": {
+				"north": {"uv": [7.97656, 3.3125, 8.75001, 5.71875], "texture": "#5"},
+				"south": {"uv": [8.75001, 9.40625, 7.97656, 11.8125], "texture": "#5"}
+			}
+		},
+		{
+			"name": "logo",
+			"from": [6.7, 4.9, 0.245],
+			"to": [7.3, 5.5, 0.245],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.9, 5.2, 0.245]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [13.75, 21.75, 0],
+			"scale": [4, 3.5, 4]
+		}
+	}
+}

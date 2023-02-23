@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+      "layer0": "minecraft:item/honey_bottle"
+  },
+
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "custom/objetos/items/alimentos/coca-cola" },
+    { "predicate": { "custom_model_data": 2 }, "model": "custom/objetos/items/alimentos/sprite" },
+    { "predicate": { "custom_model_data": 3 }, "model": "custom/objetos/items/alimentos/fanta" }
+  ]
+}

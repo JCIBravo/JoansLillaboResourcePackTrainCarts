@@ -1,0 +1,8 @@
+Estos elementos se ponen en un item frame ubicado en el suelo.
+Para obtener un item frame invisible puedes usar este comando:
+
+/minecraft:give @p item_frame{EntityTag:{Invisible:1b}}
+
+
+
+TODO: Adaptar modelos para soportes de armadura
