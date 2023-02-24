@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Modelo creado por JCIBravo",
 	"textures": {
 		"4": "logos/metrovalenciathree",
 		"5": "items/jcibravo/fgv/fgv3700ab",
@@ -189,7 +189,7 @@
 			"to": [-11.375, 6.075, 0.225],
 			"rotation": {"angle": 0, "axis": "y", "origin": [24.8, 9.4, 0.725]},
 			"faces": {
-				"north": {"uv": [0, 9.40625, 6.625, 11.09375], "texture": "#9"},
+				"north": {"uv": [0, 9.40625, 6.625, 11.09375], "texture": "#9"}
 			}
 		},
 		{
