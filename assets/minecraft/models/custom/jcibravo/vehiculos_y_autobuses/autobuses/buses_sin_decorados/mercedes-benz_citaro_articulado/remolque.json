@@ -324,8 +324,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [-2.1625, 8.5625, 5.5]},
 			"faces": {
 				"east": {"uv": [16, 0, 0, 16], "texture": "#20"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#21"},
-				"down": {"uv": [10.31301, 1.30218, 13.08236, 2.09767], "texture": "#missing"}
+				"west": {"uv": [0, 0, 16, 16], "texture": "#21"}
 			}
 		},
 		{
