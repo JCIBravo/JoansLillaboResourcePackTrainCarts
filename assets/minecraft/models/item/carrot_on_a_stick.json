@@ -41,6 +41,8 @@
     { "predicate": { "custom_model_data": 35 }, "model": "custom/objetos/items/objetos/television/camara" },
     { "predicate": { "custom_model_data": 36 }, "model": "custom/objetos/items/objetos/television/camara_con_soporte" },
     { "predicate": { "custom_model_data": 37 }, "model": "custom/objetos/items/objetos/television/microfono" },
-    { "predicate": { "custom_model_data": 38 }, "model": "custom/objetos/items/objetos/busca" }
+    { "predicate": { "custom_model_data": 38 }, "model": "custom/objetos/items/objetos/busca" },
+    { "predicate": { "custom_model_data": 39 }, "model": "custom/objetos/bloques/vallas/valla" },
+    { "predicate": { "custom_model_data": 40 }, "model": "custom/objetos/bloques/vallas/valla_borde" }
   ]
 }

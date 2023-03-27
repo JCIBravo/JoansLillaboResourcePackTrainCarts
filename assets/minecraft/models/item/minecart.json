@@ -256,6 +256,12 @@
     { "predicate": { "custom_model_data": 251 }, "model": "custom/jcibravo/trenes_y_tranvias/internacional/peru/metro_de_lima_y_callao/linea1/serie_9000/remolque" },
     { "predicate": { "custom_model_data": 252 }, "model": "custom/jcibravo/trenes_y_tranvias/internacional/republica_dominicana/metro_de_santo_domingo/serie_9000/motor" },
     { "predicate": { "custom_model_data": 253 }, "model": "custom/jcibravo/trenes_y_tranvias/internacional/republica_dominicana/metro_de_santo_domingo/serie_9000/remolque" },
+    { "predicate": { "custom_model_data": 254 }, "model": "custom/jcibravo/trenes_y_tranvias/renfe/ute_3800/cercanias_am/motor" },
+    { "predicate": { "custom_model_data": 255 }, "model": "custom/jcibravo/trenes_y_tranvias/renfe/ute_3800/cercanias_am/motor_con_pantografo" },
+    { "predicate": { "custom_model_data": 256 }, "model": "custom/jcibravo/trenes_y_tranvias/renfe/ute_3800/cercanias_am/remolque" },
+    { "predicate": { "custom_model_data": 257 }, "model": "custom/jcibravo/trenes_y_tranvias/renfe/ute_3800/renfe_feve/motor" },
+    { "predicate": { "custom_model_data": 258 }, "model": "custom/jcibravo/trenes_y_tranvias/renfe/ute_3800/renfe_feve/motor_con_pantografo" },
+    { "predicate": { "custom_model_data": 259 }, "model": "custom/jcibravo/trenes_y_tranvias/renfe/ute_3800/renfe_feve/remolque" },
 
     { "predicate": { "custom_model_data": 1026 }, "model": "custom/jcibravo_exp/trenes_y_tranvias/fgc/serie_213/antiguo_decorado/motor" },
     { "predicate": { "custom_model_data": 1027 }, "model": "custom/jcibravo_exp/trenes_y_tranvias/fgc/serie_213/antiguo_decorado/remolque" },
