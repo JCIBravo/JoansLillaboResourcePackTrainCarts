@@ -1,6 +1,16 @@
 # Joan's Lillabo
 ## _(Un pack de texturas más para [Minecraft TrainCarts](https://www.spigotmc.org/resources/traincarts.39592/))_
 
+### CÓMO DESCARGAR EL RESOURCEPACK?
+NOTA: *Se recomienda usar este resourcepack en versiones 1.19 o superior!*
+
+1) En la rama "main", descarga el archivo llamado "SavedTrainProperties.yml".
+2) Canvia la rama de "main" a "resourcepack" (Si no sabes cómo, haz click [aquí](https://github.com/JCIBravo/JoansLillaboResourcePackTrainCarts/tree/resourcepack).)
+3) En esa rama, haz click a "Code" y das click a "Download ZIP" y arrastra el zip a la carpeta "resourcepacks" de Minecraft.
+4) En la carpeta donde está su servidor, ve a la carpeta "plugin" y adentro, ve a la carpeta de "Train_Carts" y ahí introduce el archivo "SavedTrainProperties.yml".
+5) Si tienes el servidor encendido, introduce el comando ``/train globalconfig reload --savedtrainproperties`` y listo!
+_Escribe en el chat ``/savedtrain`` y el autocompletado mostrará la lista de los trenes._
+
 ### CHANGELOG
 ````
 [V5]:
