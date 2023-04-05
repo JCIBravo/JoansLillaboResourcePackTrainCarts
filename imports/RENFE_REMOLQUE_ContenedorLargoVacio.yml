@@ -1,0 +1,41 @@
+RENFE_REMOLQUE_ContenedorLargoVacio:
+  collision:
+    passive: PUSH
+    neutral: PUSH
+    hostile: PUSH
+    players: PUSH
+    misc: PUSH
+    train: CANCEL
+    block: DEFAULT
+  savedName: RENFE_REMOLQUE_ContenedorLargoVacio
+  claims:
+    - JCIBravo b9f67673-d95e-4a14-b011-f8272f0926e6
+  carts:
+    0:
+      model:
+        type: ITEM
+        entityType: MINECART
+        physical:
+          cartLength: 4.6499999999999995
+          wheelCenter: 0.0
+          wheelDistance: 3.1
+        position:
+          transform: head
+          posX: 0.0
+          posY: 0.0
+          posZ: 0.0
+          rotX: 0.0
+          rotY: 0.0
+          rotZ: 0.0
+        sitting: false
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          v: 3120
+          type: MINECART
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            custom-model-data: 164
+            Unbreakable: true
+      entityType: MINECART
+      flipped: false

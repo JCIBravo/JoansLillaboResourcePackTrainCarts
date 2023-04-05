@@ -1,0 +1,984 @@
+TMB_Serie9000Automatico:
+  savedName: TMB_Serie9000Automatico
+  collision:
+    passive: KILL
+    neutral: KILL
+    hostile: KILL
+    players: KILL
+    misc: PUSH
+    train: CANCEL
+    block: DEFAULT
+    tameable: KILL
+    utility: KILL
+    boss: KILL
+  claims:
+    - JCIBravo b9f67673-d95e-4a14-b011-f8272f0926e6
+  name: tren_n.#
+  killMessage: $0 was ran over by a train
+  wait:
+    distance: 7.5
+    delay: 3.0
+    acceleration: 1.75
+    deceleration: 1.75
+    predict: true
+  carts:
+    0:
+      model:
+        type: ITEM
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 2.7
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          1:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 1.5000000000000002
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          2:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 0.30000000000000027
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          3:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -0.9
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          4:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -2.1
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          5:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -3.3
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+        physical:
+          cartLength: 7.1000000000000005
+          wheelCenter: 0.0
+          wheelDistance: 6.0
+        position:
+          transform: HEAD
+          anchor: default
+          posX: 0.0
+          posY: 0.0
+          posZ: 0.0
+          rotX: 0.0
+          rotY: 0.0
+          rotZ: 0.0
+        sitting: false
+        lockRotation: false
+        firstPersonViewMode: DYNAMIC
+        displayMode: DEFAULT
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          v: 3120
+          type: MINECART
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            custom-model-data: 105
+            Unbreakable: true
+      entityType: MINECART
+      flipped: false
+      exitOffset:
+        ==: Vector
+        x: 0.0
+        y: 1.0
+        z: 0.0
+      exitYawLocked: true
+      exitYaw: 0.0
+      exitPitchLocked: true
+      exitPitch: 0.0
+    1:
+      model:
+        type: ITEM
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 2.7
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          1:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 1.5000000000000002
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          2:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 0.30000000000000027
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          3:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -0.9
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          4:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -2.1
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          5:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -3.3
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+        physical:
+          cartLength: 7.1000000000000005
+          wheelCenter: 0.0
+          wheelDistance: 6.0
+        position:
+          transform: HEAD
+          anchor: default
+          posX: 0.0
+          posY: 0.0
+          posZ: 0.0
+          rotX: 0.0
+          rotY: 0.0
+          rotZ: 0.0
+        sitting: false
+        lockRotation: false
+        firstPersonViewMode: DYNAMIC
+        displayMode: DEFAULT
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          v: 3120
+          type: MINECART
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            custom-model-data: 106
+            Unbreakable: true
+      entityType: MINECART
+      flipped: false
+      exitOffset:
+        ==: Vector
+        x: 0.0
+        y: 1.0
+        z: 0.0
+      exitYawLocked: true
+      exitYaw: 0.0
+      exitPitchLocked: true
+      exitPitch: 0.0
+    2:
+      model:
+        type: ITEM
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 2.7
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          1:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 1.5000000000000002
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          2:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 0.30000000000000027
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          3:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -0.9
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          4:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -2.1
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          5:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -3.3
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+        physical:
+          cartLength: 7.1
+          wheelCenter: 0.0
+          wheelDistance: 4.88
+        position:
+          transform: HEAD
+          anchor: default
+          posX: 0.0
+          posY: 0.0
+          posZ: 0.0
+          rotX: 0.0
+          rotY: 0.0
+          rotZ: 0.0
+        sitting: false
+        lockRotation: false
+        firstPersonViewMode: DYNAMIC
+        displayMode: DEFAULT
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          v: 3120
+          type: MINECART
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            custom-model-data: 106
+            Unbreakable: true
+      entityType: MINECART
+      flipped: false
+      exitOffset:
+        ==: Vector
+        x: 0.0
+        y: 1.0
+        z: 0.0
+      exitYawLocked: true
+      exitYaw: 0.0
+      exitPitchLocked: true
+      exitPitch: 0.0
+    3:
+      model:
+        type: ITEM
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 2.7
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          1:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 1.5000000000000002
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          2:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 0.30000000000000027
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          3:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -0.9
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          4:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -2.1
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          5:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -3.3
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+        physical:
+          cartLength: 7.3
+          wheelCenter: 0.0
+          wheelDistance: 5.970000000000001
+        position:
+          transform: HEAD
+          anchor: default
+          posX: 0.0
+          posY: 0.0
+          posZ: 0.0
+          rotX: 0.0
+          rotY: 0.0
+          rotZ: 0.0
+        sitting: false
+        lockRotation: false
+        firstPersonViewMode: DYNAMIC
+        displayMode: DEFAULT
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          v: 3120
+          type: MINECART
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            custom-model-data: 106
+            Unbreakable: true
+      entityType: MINECART
+      flipped: false
+      exitOffset:
+        ==: Vector
+        x: 0.0
+        y: 1.0
+        z: 0.0
+      exitYawLocked: true
+      exitYaw: 0.0
+      exitPitchLocked: true
+      exitPitch: 0.0
+    4:
+      model:
+        type: ITEM
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 2.7
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          1:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 1.5000000000000002
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          2:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: 0.30000000000000027
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          3:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -0.9
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          4:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -2.1
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+          5:
+            type: SEAT
+            position:
+              posY: 0.5
+              anchor: default
+              posX: 0.0
+              posZ: -3.3
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            displayMode: DEFAULT
+            lockRotation: false
+            firstPersonViewMode: DYNAMIC
+            ejectPosition:
+              lockRotation: false
+              anchor: default
+              posX: 0.0
+              posY: 0.0
+              posZ: 0.0
+              rotX: 0.0
+              rotY: 0.0
+              rotZ: 0.0
+            firstPersonViewLockMode: false
+            displayItem:
+              enabled: false
+        physical:
+          cartLength: 7.1
+          wheelCenter: 0.0
+          wheelDistance: 6.0
+        position:
+          transform: HEAD
+          anchor: default
+          posX: 0.0
+          posY: 0.0
+          posZ: 0.0
+          rotX: 0.0
+          rotY: 0.0
+          rotZ: 0.0
+        sitting: false
+        lockRotation: false
+        firstPersonViewMode: DYNAMIC
+        displayMode: DEFAULT
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          v: 3120
+          type: MINECART
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            custom-model-data: 105
+            Unbreakable: true
+      entityType: MINECART
+      flipped: true
+      exitOffset:
+        ==: Vector
+        x: 0.0
+        y: 1.0
+        z: 0.0
+      exitYawLocked: true
+      exitYaw: 0.0
+      exitPitchLocked: true
+      exitPitch: 0.0
